@@ -19,7 +19,7 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 
-![Dashboard](![Dashboard](images/sales%20dashboard.png))
+![Dashboard](images/sales%20dashboard.png)
 
 ---
 
